@@ -1,0 +1,24 @@
+{
+    "dir": "ltr",
+    "lang": "Slovak",
+    "name": "Smolkovia Demo",
+    "short_name": "Smolkovia",
+    "scope": "/smolkovia/",
+    "display": "fullscreen",
+    "start_url": "https://luboskadasi.github.io/smolkovia/",
+    "background_color": "#20a3f0",
+    "theme_color": "#20a3f0",
+    "description": "Smolkovia Demo Player",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/smolkovia/images/smolkovia.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://luboskadasi.github.io/smolkovia/",
+    "screenshots": []
+}
